@@ -1,0 +1,9 @@
+Apps:
+  Licene:
+    Name: Licence
+    Description: Software licence management
+    path: ./dot-license-contracts
+    mainSolFile: LicenseCore
+    language: solidity
+    truffle: true
+    README: https://github.com/sandeepxooa/dotta-license/blob/master/README.md
